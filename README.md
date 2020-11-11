@@ -18,23 +18,4 @@ $python manage.py migrate
 $python manage.py runserver
 ```
 
-# MOM
 
-https://paper.dropbox.com/doc/Meeting-notes-Sujay-Reddy-and-Tapasweni-Pathak--AdYPi89aoxcKKkOLkDy5u9cOAQ-bygriAMUwLKFqSrPd5Xst
-
-# Communication
-
-On tickets or in https://github.com/tapaswenipathak/Interns-qna
-
-# Timelines
-
-[@sujaykumarreddy Timeline]()
-[@tapaswenipathak Timeline]()
-
-# Daily Logs
-
-Write daily log in - https://github.com/tapaswenipathak/Interns-day-log
-
-# Calendar
-
-[@sujaykumarreddy Calendar](https://calendly.com/sujay0399/15min)
