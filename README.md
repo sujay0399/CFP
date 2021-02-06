@@ -1,5 +1,15 @@
 CFP
 ----
+Live demo - https://djangocfp.herokuapp.com/
+
+# Features
+- Dashboards for Speakers and Event organizers to organize and sort their proposals and events as per their needs.
+- Public user profiles
+- Saving proposals as Draft
+- Bulk submit Draft proposals
+- Organizers can search for speakers.
+- Leaderboard
+- Send event invites and details in mail(Data is sent in ICS format).
 
 # Setup
 
